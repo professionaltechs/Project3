@@ -1,0 +1,16 @@
+*/{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.al{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    align-items: flex-start; 
+   
+    
+    
+}
